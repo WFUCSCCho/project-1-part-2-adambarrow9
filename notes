@@ -1,0 +1,1 @@
+reads in scoring.csv file of nba players, puts all of them in a bst in order of field goal percentage, prints bst
